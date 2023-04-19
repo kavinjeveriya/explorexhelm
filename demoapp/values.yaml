@@ -9,7 +9,7 @@ containerPort: 8000
 image:
   repository: kavinjaveriya/explorexdemo
   pullPolicy: Always
-  tag: latest
+  tag: e816276
 
 annotations:
   app: demoapp
